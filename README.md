@@ -48,5 +48,3 @@
 * Full exception handling
 
 ---
-
-If you want, I can also add **Markdown badges** for .NET, Docker, and EF to make it look extra professional on GitHub. Do you want me to do that?
