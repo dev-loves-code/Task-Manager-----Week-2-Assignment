@@ -1,5 +1,3 @@
----
-
 # Task Manager API
 
 **ASP.NET Core 9 REST API** for managing tasks and notes (one-to-many) with full CRUD support, **Entity Framework Core**, **Mapster DTO mapping**, **Redis caching**, and **Serilog logging**.
